@@ -48,4 +48,11 @@ Designed a Shopping website using django
     </li>
   </ul>
   </li>
+  <li>Adding the web Pages
+    <ul>
+      <li>Create a dir <b>template</b> in Products dir</li>
+      <li>Write a index.html file </li>
+      <li>Render this index file from view function</li>
+  </li>
+
 </ol>
