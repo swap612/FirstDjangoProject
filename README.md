@@ -53,6 +53,7 @@ Designed a Shopping website using django
       <li>Create a dir <b>template</b> in Products dir</li>
       <li>Write a index.html file </li>
       <li>Render this index file from view function</li>
+      <li>Use Bootstrap to design better</li>
   </li>
 
 </ol>
