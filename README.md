@@ -58,4 +58,4 @@ Designed a Shopping website using django
 
 </ol>
 
-[CREDITS:](https://www.youtube.com/watch?v=_uQrJ0TkZlc)
+[CREDITS](https://www.youtube.com/watch?v=_uQrJ0TkZlc)
