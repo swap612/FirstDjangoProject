@@ -13,6 +13,9 @@ Designed a Shopping website using django
   <li>Create a application<br>
     <code> python manage.py startapp Products</code>
   </li>
-  
+  <li>Write a view functions in views.py</li>
+  <li>Create a urls.py file in Products folder <br>Write a urlpatterns list and add mapping of view fuction with the url</li>
+  <li>Add the url mapping in main project urls.py file</li>
+  <li>Creating a Product Class in models.py</li>
     
 </ol>
