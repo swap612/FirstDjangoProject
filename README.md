@@ -42,7 +42,7 @@ Designed a Shopping website using django
           <code> admin.site.register(Product)</code>
           </li>
         <li>Changing the display list <br>
-          <code>Create ProductAdmin class in admin.py and add fields in list_dispaly </code>
+          <code>Create ProductAdmin class in admin.py and add fields in list_display </code>
         </li>
       </ul>
     </li>
