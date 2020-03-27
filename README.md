@@ -57,3 +57,5 @@ Designed a Shopping website using django
   </li>
 
 </ol>
+
+[CREDITS:](https://www.youtube.com/watch?v=_uQrJ0TkZlc)
