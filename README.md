@@ -29,6 +29,23 @@ Designed a Shopping website using django
       <code>python manage.py makemigrations</code><br>
       <code>python manage.py migrate</code>
       </li>
-  
+    </ul>
+  </li>
+  <li>Manage Admin Panel
+  <ul>
+    <li> Create superuser <br>
+      <code> python manage.py createsuperuser</code>
+    </li>
+    <li>Add Product management in Admin Panel<br>
+      <ul>
+        <li>Register the product class in admin.py<br> 
+          <code> admin.site.register(Product)</code>
+          </li>
+        <li>Changing the display list <br>
+          <code>Create ProductAdmin class in admin.py and add fields in list_dispaly </code>
+        </li>
+      </ul>
+    </li>
+  </ul>
   </li>
 </ol>
